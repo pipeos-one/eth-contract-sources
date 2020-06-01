@@ -1,23 +1,31 @@
 # eth-contract-sources
 
+Ethereum smart contract sources.
+
 mainnet:
 60,664 records
+401.6 MB zipped
+blocks: 6500000 - 9487643
 
 ropsten:
 53,574 records
-
+376.5 MB zipped
+blocks: 5000000 - 7370581
 
 rinkeby:
 31,023 records
-389.3 MB
+389.3 MB zipped
+blocks: 3500000 - 5975751
 
 kovan:
 8,321 records
-120.5 MB
+120.5 MB zipped
+blocks: 9000000 - 16897803
 
 goerli:
 3,178 records
-31.9 MB
+31.9 MB zipped
+blocks: 50000 - 2213212
 
 ## Notes
 
