@@ -38,6 +38,7 @@ zip -s 95m  -r kovan_sources.zip kovan_sources.sql.zip
 
 All tables have the same structure:
 
+```
 CREATE TABLE `goerli_sources` (
   `id` int(11) NOT NULL,
   `address` varchar(45) NOT NULL,
@@ -64,3 +65,4 @@ CREATE TABLE `goerli_sources` (
   `sourceCodeJson` longtext DEFAULT NULL,
   `donotcheck` smallint(1) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+```
