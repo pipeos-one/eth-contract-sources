@@ -24,7 +24,7 @@ goerli:
 Zip chunks created with:
 ```
 zip -s 95m  -r kovan_sources.zip kovan_sources.sql.zip
-``
+```
 
 All tables have the same structure:
 
