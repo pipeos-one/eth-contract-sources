@@ -2,6 +2,7 @@
 
 Ethereum smart contract sources.
 
+```
 mainnet:
 60,664 records
 401.6 MB zipped
@@ -26,6 +27,7 @@ goerli:
 3,178 records
 31.9 MB zipped
 blocks: 50000 - 2213212
+```
 
 ## Notes
 
